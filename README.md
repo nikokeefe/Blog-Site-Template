@@ -1,3 +1,9 @@
+Basic React blog site with Home, About, Articles pages.
+
+Created using Lynda.com course React: Creating and Hosting a Full-Stack-Site and...
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
